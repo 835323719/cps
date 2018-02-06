@@ -10,7 +10,7 @@
 		<version>build20180205</version>
 	</dependency>
 	
-	<!-- https://mvnrepository.com/artifact/org.deeplearning4j/deeplearning4j-core   -->
+	<!-- https://mvnrepository.com/artifact/org.deeplearning4j/deeplearning4j-core -->
 	<dependency>
 	    <groupId>org.deeplearning4j</groupId>
 	    <artifactId>deeplearning4j-core</artifactId>
